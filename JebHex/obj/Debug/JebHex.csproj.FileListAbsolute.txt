@@ -1,0 +1,5 @@
+C:\Macu\JebHex\JebHex\bin\Debug\JebHex.exe.config
+C:\Macu\JebHex\JebHex\bin\Debug\JebHex.exe
+C:\Macu\JebHex\JebHex\bin\Debug\JebHex.pdb
+C:\Macu\JebHex\JebHex\obj\Debug\JebHex.exe
+C:\Macu\JebHex\JebHex\obj\Debug\JebHex.pdb
